@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/circle.xml" value="0.2205" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/ic_t2p_logo_curves.xml" value="0.1505" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/storke.xml" value="0.2235" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_address_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_basic_customer_details.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_bulk_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_cart.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_contact_us_detail.xml" value="0.25" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_membership_list.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_my_orders.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_my_plan.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_new_address.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_onbaording.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_order_confirmed.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_product.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_profile.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_shop.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_subcategory.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_wallet.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/activity_wishlist.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/caraousel_layout.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/category_container.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/checkout_flow_layout.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_cart.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_order.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_product.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_profile.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_shop.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_subcategory.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/content_wishlist.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/details_activity.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/fragment_home.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/fragment_sign_in.xml" value="0.1" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/fragment_sign_up.xml" value="0.1787037037037037" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/item_general_choice.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/loading_view.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/location_picker.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/location_selection_fragment.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/lyt_notification.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/menu_cart_icon.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/menu_wishlist_icon.xml" value="1.1" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/nav_header_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/new_address_item.xml" value="0.221025641025641" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/plan_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/products_container.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_cart_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_category_item.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_home_category_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_home_product_item.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_menu_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_order_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_product_image.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_product_item.xml" value="0.11944444444444445" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_product_review.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_slider_image.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_subcategory_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/single_wishlist_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/state_empty.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/state_empty_wishlist.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/toolbar.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/layout/transaction_item.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/dashbaord_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/navigation.xml" value="0.209375" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/product.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/product_wishlist.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/products.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/menu/search.xml" value="0.22447916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

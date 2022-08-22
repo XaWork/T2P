@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/T2P.iml" filepath="$PROJECT_DIR$/.idea/modules/T2P.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/T2P.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/T2P.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/T2P.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/T2P.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/T2P.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/T2P.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/T2P.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/T2P.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/T2P.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/T2P.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/T2P.library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/T2P.library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/T2P.library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/library/T2P.library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/T2P.library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/library/T2P.library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.iml" filepath="$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.main.iml" filepath="$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/woodroid/T2P.woodroid.unitTest.iml" />
+    </modules>
+  </component>
+</project>
