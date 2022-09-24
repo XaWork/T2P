@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">569149647523-3drp8ftf01adtkkcdvugq5mgmn8mj7gf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://taste2plate-1be43-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">569149647523</string>
+    <string name="google_api_key" translatable="false">AIzaSyAe_TB4tSHMVBT2weqw74MR5-EHZZ4HBnc</string>
+    <string name="google_app_id" translatable="false">1:569149647523:android:e7aaffc28923a2b744ed16</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAe_TB4tSHMVBT2weqw74MR5-EHZZ4HBnc</string>
+    <string name="google_storage_bucket" translatable="false">taste2plate-1be43.appspot.com</string>
+    <string name="project_id" translatable="false">taste2plate-1be43</string>
+</resources>

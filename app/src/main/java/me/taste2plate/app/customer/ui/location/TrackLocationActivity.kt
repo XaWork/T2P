@@ -1,29 +1,24 @@
 package me.taste2plate.app.customer.ui.location
 
-import android.graphics.Color
 import android.os.Bundle
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.OnMapReadyCallback
 import com.google.android.gms.maps.SupportMapFragment
-import com.google.android.gms.maps.model.*
+import com.google.android.gms.maps.model.BitmapDescriptorFactory
+import com.google.android.gms.maps.model.LatLng
+import com.google.android.gms.maps.model.Marker
+import com.google.android.gms.maps.model.MarkerOptions
 import com.google.firebase.database.*
-import com.maps.route.RouteRest
 import com.maps.route.extensions.drawRouteOnMap
 import com.maps.route.model.Route
-import com.maps.route.model.Routes
-import com.maps.route.model.TravelMode
-import com.maps.route.parser.RouteJsonParser
-import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import me.rozkmin.directions.Directions
 import me.rozkmin.directions.DirectionsSdk
-import me.rozkmin.directions.Position
 import me.taste2plate.app.customer.R
 import me.taste2plate.app.customer.ui.WooDroidActivity
 import me.taste2plate.app.customer.viewmodels.CustomerViewModel
 import me.taste2plate.app.models.Driver
 import me.taste2plate.app.models.order.Order
-import java.util.*
 
 
 class TrackLocationActivity : WooDroidActivity<CustomerViewModel>(), OnMapReadyCallback{
@@ -31,8 +26,8 @@ class TrackLocationActivity : WooDroidActivity<CustomerViewModel>(), OnMapReadyC
     private var mCurrLocationMarker: Marker? = null
     private var mMap: GoogleMap? = null
     lateinit var order: Order
-    val route:ArrayList<Route> = ArrayList()
     override lateinit var viewModel: CustomerViewModel
+    val route:ArrayList<Route> = ArrayList()
     private lateinit var database: DatabaseReference
     val directions : Directions by lazy {
         DirectionsSdk("AIzaSyAj0qAw3RL4AhbO3ly22EFMqThPbm7dBT4")
@@ -59,7 +54,7 @@ class TrackLocationActivity : WooDroidActivity<CustomerViewModel>(), OnMapReadyC
         mapFragment.getMapAsync(this)
     }
 
-    override fun onMapReady(p0: GoogleMap?) {
+    override fun onMapReady(p0: GoogleMap) {
         mMap = p0
 
         database.child("userlocation${order._id}").addValueEventListener(object :
@@ -75,8 +70,8 @@ class TrackLocationActivity : WooDroidActivity<CustomerViewModel>(), OnMapReadyC
                         source = LatLng(latitude, longitude),
                         markers = false,
                         destination = LatLng(
-                            order.address!!.position.coordinates[0].toDouble(),
-                            order.address!!.position.coordinates[1].toDouble()
+                            order.address!!.position.coordinates[0],
+                            order.address!!.position.coordinates[1]
                         ),
                         context = this@TrackLocationActivity
                     )

@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.trackier:android-sdk:1.6.19@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fb401d083acb9abf8178c3f8f503a9a/jetified-android-sdk-1.6.19/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fb401d083acb9abf8178c3f8f503a9a/jetified-android-sdk-1.6.19/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/403018e00ac89e36c65740314e36c478/jetified-android-sdk-1.6.19/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fb401d083acb9abf8178c3f8f503a9a/jetified-android-sdk-1.6.19/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fb401d083acb9abf8178c3f8f503a9a/jetified-android-sdk-1.6.19/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.fueled:reclaim:2.1.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d7e17354998f29c307b9c7c78753c4/jetified-reclaim-2.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d7e17354998f29c307b9c7c78753c4/jetified-reclaim-2.1.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/28d7e17354998f29c307b9c7c78753c4/jetified-reclaim-2.1.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.fueled/reclaim/2.1.1/8b43b6559d3a49ce80597f6b9356c59a061bb245/reclaim-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

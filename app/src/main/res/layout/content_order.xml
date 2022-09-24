@@ -333,6 +333,7 @@
 		android:textSize="20sp" />
 
 	</LinearLayout>
+
 	<View
 	  android:layout_width="match_parent"
 	  android:layout_height="1dp"
@@ -478,7 +479,6 @@
 	  android:layout_marginLeft="16dp"
 	  android:layout_marginRight="16dp"
 	  android:orientation="horizontal"
-	  android:theme="@style/CustomRadioTheme"
 	  android:visibility="gone">
 
 

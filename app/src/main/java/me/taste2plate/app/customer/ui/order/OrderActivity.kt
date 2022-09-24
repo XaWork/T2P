@@ -43,7 +43,7 @@ class OrderActivity : WooDroidActivity<OrderViewModel>() {
     private var totalShippingCost: Float = 0f
     private var totalAmount: Float = 0f;
     val itemAdapter = ItemsViewAdapter()
-    lateinit var serverTime :String
+    lateinit var serverTime: String
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -70,19 +70,18 @@ class OrderActivity : WooDroidActivity<OrderViewModel>() {
 
         val serverTimeDate = serverTime.toDateObject("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'")
         val createdAt = order!!.created_date.toDateObject("yyyy-MM-dd'T'HH:mm:ss.SSS'Z'")
-        val diffHours: Long = (serverTimeDate.time-createdAt.time) / (60 * 60 * 1000)
-        if(diffHours<4 && !order!!.status.contentEquals("cancel")){
+        val diffHours: Long = (serverTimeDate.time - createdAt.time) / (60 * 60 * 1000)
+        if (diffHours < 4 && !order!!.status.contentEquals("cancel")) {
             btnCancelOrder.visibility = VISIBLE
-        }else{
+        } else {
             btnCancelOrder.visibility = GONE
         }
 
-        if(order!!.status.contentEquals("cancel")){
+        if (order!!.status.contentEquals("cancel")) {
             tvTrackOrder.visibility = View.GONE
-        }else{
+        } else {
             tvTrackOrder.visibility = View.VISIBLE
         }
-
 
         adapter = CheckoutAdapter(cartItems)
         rvCheckOutCart.adapter = adapter
@@ -106,16 +105,16 @@ class OrderActivity : WooDroidActivity<OrderViewModel>() {
             adapter = itemAdapter
         }
 
-        if(order!!.delivery_weight.isEmpty() || order!!.delivery_weight.toFloat() <= 0){
+        if (order!!.delivery_weight.isEmpty() || order!!.delivery_weight.toFloat() <= 0) {
             weight_delivery_container.visibility = GONE
-        }else{
+        } else {
             weight_delivery_container.visibility = VISIBLE
             weight_delivery.text = "${order!!.delivery_weight} Kg"
         }
 
-        if(order!!.pickup_weight.isEmpty() || order!!.pickup_weight.toFloat() <= 0){
+        if (order!!.pickup_weight.isEmpty() || order!!.pickup_weight.toFloat() <= 0) {
             weight_pickup_container.visibility = GONE
-        }else{
+        } else {
             weight_pickup_container.visibility = VISIBLE
             weight_pickup.text = "${order!!.pickup_weight} Kg"
         }
@@ -152,7 +151,8 @@ class OrderActivity : WooDroidActivity<OrderViewModel>() {
             }
         }
 
-        deliveryDate.text = "Delivery Date: ${order!!.delivery_date.toDate("dd-MM-yyyy")} ${order!!.timeslot}"
+        deliveryDate.text =
+            "Delivery Date: ${order!!.delivery_date.toDate("dd-MM-yyyy")} ${order!!.timeslot}"
 
 
         totalAmount = order!!.finalprice.toFloat()
@@ -281,14 +281,14 @@ class OrderActivity : WooDroidActivity<OrderViewModel>() {
     }
 
     private fun alert(message: String) {
-            val alert = AlertDialog.Builder(this)
-                .setTitle("")
-                .setMessage("Your order has been successfully cancelled")
-                .setCancelable(false)
-                .setPositiveButton(getString(R.string.alert_ok)) { dialog, which ->
-                    finish()
-                }.create()
-            alert.show()
+        val alert = AlertDialog.Builder(this)
+            .setTitle("")
+            .setMessage("Your order has been successfully cancelled")
+            .setCancelable(false)
+            .setPositiveButton(getString(R.string.alert_ok)) { dialog, which ->
+                finish()
+            }.create()
+        alert.show()
     }
 
 

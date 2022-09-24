@@ -82,7 +82,7 @@ class MyOrdersActivity : WooDroidActivity<OrderViewModel>() {
             finish()
             return
         }
-        viewModel.orders(appUtils.user.id).observe(this, androidx.lifecycle.Observer { response ->
+        viewModel.orders(appUtils.user.id).observe(this) { response ->
             when (response!!.status()) {
                 Status.LOADING -> {
                     showLoading()
@@ -111,7 +111,7 @@ class MyOrdersActivity : WooDroidActivity<OrderViewModel>() {
                 }
             }
 
-        })
+        }
 
     }
 }

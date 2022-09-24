@@ -3,6 +3,25 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/drawable/bg_bottom_sheet_dialog_fragment.xml" value="0.141" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/drawable/ic_t2p_logo_curves.xml" value="0.2075" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_home.xml" value="0.21670428893905191" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_my_plan.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_new_address.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_onbaording.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_order.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_order_confirmed.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/activity_subcategory.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/checkout_flow_layout.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/content_order.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/details_activity.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/location_selection_fragment.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/new_address_item.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/single_checkout_item.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/single_order_item.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/layout/toolbar.xml" value="0.2" />
+        <entry key="..\:/Android/Laysan Projects/T2P/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
         <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/circle.xml" value="0.2205" />
         <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/ic_t2p_logo_curves.xml" value="0.1505" />
         <entry key="..\:/Users/Xa Kaler/Desktop/t2p_android/t2p_android/app/src/main/res/drawable/storke.xml" value="0.2235" />

@@ -68,6 +68,7 @@
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ecce728ecbf80cc35cb50773b0bca473/jetified-jackson-annotations-2.9.0.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4d5bdffe0b29abbacd72eaed0ea58f3b/jetified-jackson-core-2.9.8.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9f2a0292291af308b98eccc35cc1956d/jetified-commons-net-3.6.jar</arg>
+                <arg>$MODULE_DIR$/../../../woodroid/build/intermediates/compile_library_classes_jar/debug/classes.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-30/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar</arg>
               </args>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.malikdawar:drawroute:1.5@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/662bb0a28d16f000fa6a418475da5c0b/jetified-drawroute-1.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/662bb0a28d16f000fa6a418475da5c0b/jetified-drawroute-1.5/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/662bb0a28d16f000fa6a418475da5c0b/jetified-drawroute-1.5/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.malikdawar/drawroute/1.5/242f1124d5cdc6eaa0dd55245ec265de2aec648e/drawroute-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

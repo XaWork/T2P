@@ -14,6 +14,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../woodroid/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ed8a0e3b570b9fcb60a62b6f07bc8ba/jetified-kotlin-android-extensions-runtime-1.5.30.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ccfc06d4c7b3bf4aff0402e022e5435d/jetified-kotlin-stdlib-jdk7-1.5.21.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9dc3946c40f5d8b7d212344727cb5c70/jetified-kotlin-stdlib-1.5.30.jar</arg>
@@ -79,6 +80,7 @@
             <stringArg name="languageVersion" arg="1.5" />
           </stringArguments>
           <arrayArguments>
+            <arrayArg name="friendPaths" />
             <arrayArg name="pluginClasspaths">
               <args>
                 <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.5.30/81d12fd9082cfcda1d1c5c5df3c1c636e5dcc4f/kotlin-android-extensions-1.5.30.jar</arg>
@@ -124,10 +126,14 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/aidl_source_output_dir/debug/out" />
-    <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/ap_generated_sources/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../woodroid/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/renderscript_source_output_dir/debug/out" />
     <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/res/rs/debug" />
-    <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/source/buildConfig/debug" />
+    <content url="file://$MODULE_DIR$/../../../woodroid/build/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../woodroid/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
     <content url="file://$MODULE_DIR$/../../../woodroid/src/debug" />
     <content url="file://$MODULE_DIR$/../../../woodroid/src/main">
       <sourceFolder url="file://$MODULE_DIR$/../../../woodroid/src/main/java" isTestSource="false" />
